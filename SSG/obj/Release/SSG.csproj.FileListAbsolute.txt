@@ -1,0 +1,9 @@
+C:\Users\klimenta.ANDREEV\source\repos\SSG\SSG\bin\Release\SSG.exe
+C:\Users\klimenta.ANDREEV\source\repos\SSG\SSG\bin\Release\SSG.pdb
+C:\Users\klimenta.ANDREEV\source\repos\SSG\SSG\obj\Release\SSG.csprojResolveAssemblyReference.cache
+C:\Users\klimenta.ANDREEV\source\repos\SSG\SSG\obj\Release\SSG.Form1.resources
+C:\Users\klimenta.ANDREEV\source\repos\SSG\SSG\obj\Release\SSG.Properties.Resources.resources
+C:\Users\klimenta.ANDREEV\source\repos\SSG\SSG\obj\Release\SSG.csproj.GenerateResource.cache
+C:\Users\klimenta.ANDREEV\source\repos\SSG\SSG\obj\Release\SSG.csproj.CoreCompileInputs.cache
+C:\Users\klimenta.ANDREEV\source\repos\SSG\SSG\obj\Release\SSG.exe
+C:\Users\klimenta.ANDREEV\source\repos\SSG\SSG\obj\Release\SSG.pdb
