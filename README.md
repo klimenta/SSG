@@ -22,4 +22,6 @@ You can click **STOP** to stop recording or just close the program.
 
 The files are in JPEG format and the filenames are the actual timestamps when they were taken, e.g. 20201228163924.jpg means December 16th, 2020 at 4:39:24PM.
 
+# Download
 
+You can compile using Visual Studio and .NET 4.5 or download the binary from the releases section.
