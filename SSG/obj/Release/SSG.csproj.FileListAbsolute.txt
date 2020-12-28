@@ -7,3 +7,11 @@ C:\Users\klimenta.ANDREEV\source\repos\SSG\SSG\obj\Release\SSG.csproj.GenerateRe
 C:\Users\klimenta.ANDREEV\source\repos\SSG\SSG\obj\Release\SSG.csproj.CoreCompileInputs.cache
 C:\Users\klimenta.ANDREEV\source\repos\SSG\SSG\obj\Release\SSG.exe
 C:\Users\klimenta.ANDREEV\source\repos\SSG\SSG\obj\Release\SSG.pdb
+P:\dotnet\SSG\SSG\bin\Release\SSG.exe
+P:\dotnet\SSG\SSG\bin\Release\SSG.pdb
+P:\dotnet\SSG\SSG\obj\Release\SSG.Form1.resources
+P:\dotnet\SSG\SSG\obj\Release\SSG.Properties.Resources.resources
+P:\dotnet\SSG\SSG\obj\Release\SSG.csproj.GenerateResource.cache
+P:\dotnet\SSG\SSG\obj\Release\SSG.csproj.CoreCompileInputs.cache
+P:\dotnet\SSG\SSG\obj\Release\SSG.exe
+P:\dotnet\SSG\SSG\obj\Release\SSG.pdb

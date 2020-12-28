@@ -16,3 +16,11 @@ C:\Users\klimenta.ANDREEV\source\repos\SSG\SSG\obj\Debug\SSG.csproj.CoreCompileI
 C:\Users\klimenta.ANDREEV\source\repos\SSG\SSG\obj\Debug\SSG.exe
 C:\Users\klimenta.ANDREEV\source\repos\SSG\SSG\obj\Debug\SSG.pdb
 C:\Users\klimenta.ANDREEV\source\repos\SSG\SSG\obj\Debug\SSG.csprojResolveAssemblyReference.cache
+P:\dotnet\SSG\SSG\bin\Debug\SSG.exe
+P:\dotnet\SSG\SSG\bin\Debug\SSG.pdb
+P:\dotnet\SSG\SSG\obj\Debug\SSG.Form1.resources
+P:\dotnet\SSG\SSG\obj\Debug\SSG.Properties.Resources.resources
+P:\dotnet\SSG\SSG\obj\Debug\SSG.csproj.GenerateResource.cache
+P:\dotnet\SSG\SSG\obj\Debug\SSG.csproj.CoreCompileInputs.cache
+P:\dotnet\SSG\SSG\obj\Debug\SSG.exe
+P:\dotnet\SSG\SSG\obj\Debug\SSG.pdb
